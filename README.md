@@ -52,18 +52,15 @@ The project uses the following datasets:
 
 - Data loading and preprocessing from CREMA, RAVDESS, SAVEE, and TESS datasets.
 - Feature extraction using `librosa`.
-- Model training using TensorFlow and Keras.
+- Model training using `TensorFlow` and `Keras`.
 - Evaluation with confusion matrix and classification report.
 
 ## Model Architecture
 
-The model is built using TensorFlow and Keras. The architecture includes:
+The model is built using `TensorFlow` and `Keras`. The architecture includes:
 - Convolutional layers for feature extraction.
 - Dense layers for classification.
 - Dropout layers for regularization.
-
-![architecture](https://github.com/Shengwei0516/Speech-Emotion-Recognition/blob/main/imgs/architecture.png)
-
 
 ## Training
 
