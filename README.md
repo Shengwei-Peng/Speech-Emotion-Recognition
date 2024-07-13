@@ -2,7 +2,7 @@
 
 This project aims to classify emotions from speech using machine learning techniques. The dataset used includes CREMA, RAVDESS, SAVEE, and TESS.
 
-![SER](https://github.com/Shengwei0516/Speech-Emotion-Recognition/blob/main/imgs/SER.png)
+![SER](imgs/SER.png)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ This project aims to classify emotions from speech using machine learning techni
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/speech-emotion-recognition.git
+    git clone https://github.com/Shengwei-Peng/Speech-Emotion-Recognition.git
     ```
 2. Navigate to the project directory:
     ```bash
